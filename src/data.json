@@ -14,7 +14,7 @@
     "id": "hIRd8dfJP1lstxqCfgiMu",
     "type": "Entry",
     "createdAt": "2024-12-26T14:09:11.608Z",
-    "updatedAt": "2024-12-26T15:13:13.911Z",
+    "updatedAt": "2024-12-27T14:09:20.277Z",
     "environment": {
       "sys": {
         "id": "master",
@@ -22,8 +22,8 @@
         "linkType": "Environment"
       }
     },
-    "publishedVersion": 23,
-    "revision": 2,
+    "publishedVersion": 26,
+    "revision": 3,
     "contentType": {
       "sys": {
         "type": "Link",
@@ -34,60 +34,60 @@
     "locale": "en-US"
   },
   "fields": {
-    "title": "Welcome to the Shoppe",
+    "title": "Welcome to the Shoppe...",
     "body": {
-      "nodeType": "document",
       "data": {},
       "content": [
         {
-          "nodeType": "paragraph",
           "data": {},
           "content": [
             {
-              "nodeType": "text",
+              "data": {},
+              "marks": [],
               "value": "Experience Innovation with the Latest Smartphone Technology Discover the perfect blend of style, performance, and cutting - edge technology with our premium range of smartphones. Designed for seamless connectivity and an unparalleled user experience, our mobile phones redefine the way you communicate, create, and connect. Stylish Designs in Stunning Colors Choose from a variety of elegant finishes that suit your personality. From classic Black to vibrant Yellow, our smartphones are crafted to turn heads. Sleek and lightweight, they fit comfortably in your hand and pocket, making them a true companion for your lifestyle.",
-              "marks": [],
-              "data": {}
+              "nodeType": "text"
             }
-          ]
+          ],
+          "nodeType": "paragraph"
         },
         {
-          "nodeType": "paragraph",
           "data": {},
           "content": [
             {
-              "nodeType": "text",
+              "data": {},
+              "marks": [],
               "value": "Powerful Performance at Your Fingertips Equipped with advanced processors and high - performance GPUs, our smartphones deliver lightning - fast speed, whether you're multitasking, gaming, or streaming. With ample storage options, you’ll never have to worry about running out of space for your photos, apps, and files. Capture Every Moment in Stunning Detail Unleash your inner photographer with dual and triple camera systems designed to produce breathtaking photos and videos. Features like Night Mode, Smart HDR, and 4K video recording ensure you capture every moment in vivid detail, even in low light. Vibrant Displays for Immersive Viewing Enjoy an immersive viewing experience with edge - to - edge displays that bring your content to life. Whether you're watching your favorite show, editing photos, or gaming, our smartphones offer sharp resolutions, true-to-life colors, and smooth responsiveness.",
-              "marks": [],
-              "data": {}
+              "nodeType": "text"
             }
-          ]
+          ],
+          "nodeType": "paragraph"
         },
         {
-          "nodeType": "paragraph",
           "data": {},
           "content": [
             {
-              "nodeType": "text",
+              "data": {},
+              "marks": [],
               "value": "Built to Keep Up with Your Lifestyle Our smartphones are engineered for durability with water and dust resistance, ensuring they can handle life's unexpected challenges. Long-lasting batteries and fast-charging support keep you powered throughout the day. Stay Secure with Advanced Technology Protect your data with secure features like facial recognition and fingerprint sensors. Integrated with the latest operating systems, our phones ensure your device is always updated and protected against threats.",
-              "marks": [],
-              "data": {}
+              "nodeType": "text"
             }
-          ]
+          ],
+          "nodeType": "paragraph"
         },
         {
-          "nodeType": "paragraph",
           "data": {},
           "content": [
             {
-              "nodeType": "text",
-              "value": "Seamless Connectivity and Smart Features Stay connected with the fastest Wi - Fi, 5G support, and Bluetooth technology. Use your smartphone as a productivity hub with features like screen sharing, multi - tasking tools, and voice assistants that help you stay ahead. Your Perfect Smartphone Awaits Upgrade your mobile experience today. Whether you need a device for professional use, photography, gaming, or entertainment, we have the perfect smartphone for you. Browse our collection, explore flexible payment options, and find the phone that suits your lifestyle. Shop Now and Elevate Your Experience!",
+              "data": {},
               "marks": [],
-              "data": {}
+              "value": "Seamless Connectivity and Smart Features Stay connected with the fastest Wi - Fi, 5G support, and Bluetooth technology. Use your smartphone as a productivity hub with features like screen sharing, multi - tasking tools, and voice assistants that help you stay ahead. Your Perfect Smartphone Awaits Upgrade your mobile experience today. Whether you need a device for professional use, photography, gaming, or entertainment, we have the perfect smartphone for you. Browse our collection, explore flexible payment options, and find the phone that suits your lifestyle. Shop Now and Elevate Your Experience!",
+              "nodeType": "text"
             }
-          ]
+          ],
+          "nodeType": "paragraph"
         }
-      ]
+      ],
+      "nodeType": "document"
     },
     "banner": {
       "metadata": {

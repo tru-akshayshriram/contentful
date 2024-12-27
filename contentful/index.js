@@ -20,7 +20,7 @@ client.getEntries()
         // JSON to string
         const JSONstring = JSON.stringify(siteEntry, null, 2);
 
-        const filePath = "data.json";
+        const filePath = "src/data.json";
 
         fs.writeFile(filePath, JSONstring, (err) => {
             if (err) {
