@@ -1,0 +1,855 @@
+{
+  "metadata": {
+    "tags": [],
+    "concepts": []
+  },
+  "sys": {
+    "space": {
+      "sys": {
+        "type": "Link",
+        "linkType": "Space",
+        "id": "0ww4nq80qzhz"
+      }
+    },
+    "id": "hIRd8dfJP1lstxqCfgiMu",
+    "type": "Entry",
+    "createdAt": "2024-12-26T14:09:11.608Z",
+    "updatedAt": "2024-12-26T15:13:13.911Z",
+    "environment": {
+      "sys": {
+        "id": "master",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 23,
+    "revision": 2,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "site"
+      }
+    },
+    "locale": "en-US"
+  },
+  "fields": {
+    "title": "Welcome to the Shoppe",
+    "body": {
+      "nodeType": "document",
+      "data": {},
+      "content": [
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Experience Innovation with the Latest Smartphone Technology Discover the perfect blend of style, performance, and cutting - edge technology with our premium range of smartphones. Designed for seamless connectivity and an unparalleled user experience, our mobile phones redefine the way you communicate, create, and connect. Stylish Designs in Stunning Colors Choose from a variety of elegant finishes that suit your personality. From classic Black to vibrant Yellow, our smartphones are crafted to turn heads. Sleek and lightweight, they fit comfortably in your hand and pocket, making them a true companion for your lifestyle.",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Powerful Performance at Your Fingertips Equipped with advanced processors and high - performance GPUs, our smartphones deliver lightning - fast speed, whether you're multitasking, gaming, or streaming. With ample storage options, you’ll never have to worry about running out of space for your photos, apps, and files. Capture Every Moment in Stunning Detail Unleash your inner photographer with dual and triple camera systems designed to produce breathtaking photos and videos. Features like Night Mode, Smart HDR, and 4K video recording ensure you capture every moment in vivid detail, even in low light. Vibrant Displays for Immersive Viewing Enjoy an immersive viewing experience with edge - to - edge displays that bring your content to life. Whether you're watching your favorite show, editing photos, or gaming, our smartphones offer sharp resolutions, true-to-life colors, and smooth responsiveness.",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Built to Keep Up with Your Lifestyle Our smartphones are engineered for durability with water and dust resistance, ensuring they can handle life's unexpected challenges. Long-lasting batteries and fast-charging support keep you powered throughout the day. Stay Secure with Advanced Technology Protect your data with secure features like facial recognition and fingerprint sensors. Integrated with the latest operating systems, our phones ensure your device is always updated and protected against threats.",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        },
+        {
+          "nodeType": "paragraph",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "text",
+              "value": "Seamless Connectivity and Smart Features Stay connected with the fastest Wi - Fi, 5G support, and Bluetooth technology. Use your smartphone as a productivity hub with features like screen sharing, multi - tasking tools, and voice assistants that help you stay ahead. Your Perfect Smartphone Awaits Upgrade your mobile experience today. Whether you need a device for professional use, photography, gaming, or entertainment, we have the perfect smartphone for you. Browse our collection, explore flexible payment options, and find the phone that suits your lifestyle. Shop Now and Elevate Your Experience!",
+              "marks": [],
+              "data": {}
+            }
+          ]
+        }
+      ]
+    },
+    "banner": {
+      "metadata": {
+        "tags": [],
+        "concepts": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "0ww4nq80qzhz"
+          }
+        },
+        "id": "277480yPgAAxv6eeChSWEl",
+        "type": "Asset",
+        "createdAt": "2024-12-26T14:08:02.278Z",
+        "updatedAt": "2024-12-26T14:08:02.278Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "revision": 1,
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "site banner",
+        "description": "",
+        "file": {
+          "url": "//images.ctfassets.net/0ww4nq80qzhz/277480yPgAAxv6eeChSWEl/ccf8f845cef92d938e1e5c7cbcf149d1/18393086_5976015.jpg",
+          "details": {
+            "size": 447909,
+            "image": {
+              "width": 2575,
+              "height": 1209
+            }
+          },
+          "fileName": "18393086_5976015.jpg",
+          "contentType": "image/jpeg"
+        }
+      }
+    },
+    "footer": "Copyright ©2023",
+    "products": [
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "0ww4nq80qzhz"
+            }
+          },
+          "id": "1ZHcCTSO7gTtijB5Kf5R6W",
+          "type": "Entry",
+          "createdAt": "2024-12-26T13:55:31.447Z",
+          "updatedAt": "2024-12-26T13:55:31.447Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 7,
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "phone"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "imei": 25232122343,
+          "name": "Apple iPhone 13",
+          "description": {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": "iPhone 13, 128GB, Midnight - Unlocked (Renewed Premium), comes with charger, Mfi cable and SIM Pin ejector ",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              }
+            ],
+            "nodeType": "document"
+          },
+          "image": {
+            "metadata": {
+              "tags": [],
+              "concepts": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "0ww4nq80qzhz"
+                }
+              },
+              "id": "4zQoDc4aJ49idUNKqIXzez",
+              "type": "Asset",
+              "createdAt": "2024-12-26T13:54:53.339Z",
+              "updatedAt": "2024-12-26T13:54:53.339Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "publishedVersion": 4,
+              "revision": 1,
+              "locale": "en-US"
+            },
+            "fields": {
+              "title": "Apple iPhone 13",
+              "description": "",
+              "file": {
+                "url": "//images.ctfassets.net/0ww4nq80qzhz/4zQoDc4aJ49idUNKqIXzez/e3a84782b44892e8ace4ab155e89b50c/61BUt5ZErdL._AC_SX679_.jpg",
+                "details": {
+                  "size": 38989,
+                  "image": {
+                    "width": 679,
+                    "height": 922
+                  }
+                },
+                "fileName": "61BUt5ZErdL._AC_SX679_.jpg",
+                "contentType": "image/jpeg"
+              }
+            }
+          },
+          "tags": [
+            {
+              "metadata": {
+                "tags": [],
+                "concepts": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "0ww4nq80qzhz"
+                  }
+                },
+                "id": "1anPntXOLFQvZ37VgyvDmF",
+                "type": "Entry",
+                "createdAt": "2024-12-26T13:50:54.743Z",
+                "updatedAt": "2024-12-26T13:50:54.743Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "publishedVersion": 3,
+                "revision": 1,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "tag"
+                  }
+                },
+                "locale": "en-US"
+              },
+              "fields": {
+                "name": "Pacific Blue"
+              }
+            },
+            {
+              "metadata": {
+                "tags": [],
+                "concepts": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "0ww4nq80qzhz"
+                  }
+                },
+                "id": "SSiepDcgC79s2yCGBuXqM",
+                "type": "Entry",
+                "createdAt": "2024-12-26T13:33:49.848Z",
+                "updatedAt": "2024-12-26T13:33:49.848Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "publishedVersion": 2,
+                "revision": 1,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "tag"
+                  }
+                },
+                "locale": "en-US"
+              },
+              "fields": {
+                "name": "32GB"
+              }
+            },
+            {
+              "metadata": {
+                "tags": [],
+                "concepts": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "0ww4nq80qzhz"
+                  }
+                },
+                "id": "7yXTdi8qzdqVxplwLI7OzQ",
+                "type": "Entry",
+                "createdAt": "2024-12-26T13:35:02.764Z",
+                "updatedAt": "2024-12-26T13:35:02.764Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "publishedVersion": 2,
+                "revision": 1,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "tag"
+                  }
+                },
+                "locale": "en-US"
+              },
+              "fields": {
+                "name": "16MP"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "0ww4nq80qzhz"
+            }
+          },
+          "id": "LplJzFpVR45MzkPOLavCP",
+          "type": "Entry",
+          "createdAt": "2024-12-26T13:51:04.977Z",
+          "updatedAt": "2024-12-27T13:32:11.963Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 15,
+          "revision": 3,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "phone"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "imei": 2342355634,
+          "name": "Apple iPhone 12 Pro Max",
+          "description": {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": "iPhone 12 Pro Max. Larger 6.7-inch Super Retina XDR display. Ceramic Shield with four times better drop performance. Incredible low-light photography with the best pro camera system on an iPhone and 5x optical zoom range. Cinema-grade Dolby Vision video recording, editing and playback. Night mode portraits and next-level AR experiences with the LiDAR Scanner. Powerful A14 Bionic chip. And MagSafe accessories for easy attachment and faster wireless charging. For infinitely spectacular possibilities. ",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              }
+            ],
+            "nodeType": "document"
+          },
+          "image": {
+            "metadata": {
+              "tags": [],
+              "concepts": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "0ww4nq80qzhz"
+                }
+              },
+              "id": "4r1Dxru3crnyUDND7GKVJ",
+              "type": "Asset",
+              "createdAt": "2024-12-26T13:50:19.328Z",
+              "updatedAt": "2024-12-26T13:50:19.328Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "publishedVersion": 4,
+              "revision": 1,
+              "locale": "en-US"
+            },
+            "fields": {
+              "title": "iPhone 12",
+              "description": "",
+              "file": {
+                "url": "//images.ctfassets.net/0ww4nq80qzhz/4r1Dxru3crnyUDND7GKVJ/9d2dc47277e39c932e6cd65298c1dc8d/71MHTD3uL4L._AC_SX679_.jpg",
+                "details": {
+                  "size": 45716,
+                  "image": {
+                    "width": 679,
+                    "height": 927
+                  }
+                },
+                "fileName": "71MHTD3uL4L._AC_SX679_.jpg",
+                "contentType": "image/jpeg"
+              }
+            }
+          },
+          "tags": [
+            {
+              "metadata": {
+                "tags": [],
+                "concepts": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "0ww4nq80qzhz"
+                  }
+                },
+                "id": "7yXTdi8qzdqVxplwLI7OzQ",
+                "type": "Entry",
+                "createdAt": "2024-12-26T13:35:02.764Z",
+                "updatedAt": "2024-12-26T13:35:02.764Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "publishedVersion": 2,
+                "revision": 1,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "tag"
+                  }
+                },
+                "locale": "en-US"
+              },
+              "fields": {
+                "name": "16MP"
+              }
+            },
+            {
+              "metadata": {
+                "tags": [],
+                "concepts": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "0ww4nq80qzhz"
+                  }
+                },
+                "id": "1anPntXOLFQvZ37VgyvDmF",
+                "type": "Entry",
+                "createdAt": "2024-12-26T13:50:54.743Z",
+                "updatedAt": "2024-12-26T13:50:54.743Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "publishedVersion": 3,
+                "revision": 1,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "tag"
+                  }
+                },
+                "locale": "en-US"
+              },
+              "fields": {
+                "name": "Pacific Blue"
+              }
+            },
+            {
+              "metadata": {
+                "tags": [],
+                "concepts": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "0ww4nq80qzhz"
+                  }
+                },
+                "id": "SSiepDcgC79s2yCGBuXqM",
+                "type": "Entry",
+                "createdAt": "2024-12-26T13:33:49.848Z",
+                "updatedAt": "2024-12-26T13:33:49.848Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "publishedVersion": 2,
+                "revision": 1,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "tag"
+                  }
+                },
+                "locale": "en-US"
+              },
+              "fields": {
+                "name": "32GB"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "metadata": {
+          "tags": [],
+          "concepts": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "0ww4nq80qzhz"
+            }
+          },
+          "id": "2KChFuyf9rUF2HOHXjW1To",
+          "type": "Entry",
+          "createdAt": "2024-12-26T13:46:39.270Z",
+          "updatedAt": "2024-12-26T13:46:39.270Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 10,
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "phone"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "imei": 17234695645,
+          "name": "iPhone 11",
+          "description": {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": "The iPhone 11 is a versatile and stylish smartphone available in six striking finishes: Black, Green, Yellow, Purple, (PRODUCT)RED™, and White. This device caters to a variety of storage needs with options for 64GB, 128GB, and 256GB capacities. Designed to be both compact and lightweight, it measures 2.98 inches (75.7 mm) in width, 5.94 inches (150.9 mm) in height, and 0.33 inches (8.3 mm) in depth, with a weight of 6.84 ounces (194 grams), making it comfortable to hold and carry.",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              },
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": "The iPhone 11 boasts a 6.1-inch Liquid Retina HD display, featuring an all-screen LCD with advanced IPS technology. Its resolution of 1792 x 828 pixels at 326 pixels per inch ensures clear and vibrant visuals. The display delivers a contrast ratio of 1400:1 and supports P3 wide color for richer and more accurate color reproduction. True Tone technology adjusts the display’s white balance to match the surrounding lighting, providing a natural viewing experience. The screen is also equipped with Haptic Touch for responsive feedback and reaches up to 625 nits of typical max brightness. Additionally, its fingerprint-resistant oleophobic coating ensures a clean and smudge-free surface, while support for multiple languages and characters makes it accessible for users worldwide. Though the display has rounded corners that follow the phone’s curved design, it measures 6.06 inches diagonally when considered as a standard rectangle.",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              },
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": "Built to withstand daily challenges, the iPhone 11 has an IP68 rating under IEC standard 60529, meaning it is resistant to water at a maximum depth of 2 meters for up to 30 minutes. Dust resistance further enhances its durability. The device is powered by Apple’s A13 Bionic chip, which includes a 6-core CPU with two performance cores and four efficiency cores, a 4-core GPU, and an 8-core Neural Engine. This combination delivers exceptional speed, efficiency, and machine-learning capabilities, making it ideal for gaming, photography, and multitasking.",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              },
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": "Photography enthusiasts will appreciate the iPhone 11’s dual-camera system, featuring 12MP Wide and Ultra-Wide lenses. The Wide lens has an ƒ/1.8 aperture, while the Ultra-Wide lens offers an ƒ/2.4 aperture and a 120° field of view. The camera supports features like 2x optical zoom out, digital zoom up to 5x, Night mode, Deep Fusion, Smart HDR, and Portrait Lighting with six effects. For video recording, it excels with 4K capabilities at various frame rates, extended dynamic range, and cinematic stabilization. The front-facing 12MP TrueDepth camera includes similar photo and video features, ensuring high-quality selfies and video calls.",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              },
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": "The iPhone 11 also excels in connectivity, supporting Gigabit-class LTE, Wi-Fi 6, Bluetooth 5.0, and NFC with reader mode. Location services are enhanced with built-in GPS, cellular support, and iBeacon microlocation. Additionally, Face ID enables secure facial recognition, while Apple Pay provides seamless transactions in stores, apps, and online. With support for advanced audio and video playback formats, including Dolby Vision and Spatial Audio, the iPhone 11 offers an immersive entertainment experience. Overall, the iPhone 11 combines style, performance, and functionality to cater to a wide range of users.",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              }
+            ],
+            "nodeType": "document"
+          },
+          "image": {
+            "metadata": {
+              "tags": [],
+              "concepts": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "0ww4nq80qzhz"
+                }
+              },
+              "id": "1XzeohM0obCjYt5g3DYtRY",
+              "type": "Asset",
+              "createdAt": "2024-12-26T13:45:10.283Z",
+              "updatedAt": "2024-12-26T13:45:25.640Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "publishedVersion": 6,
+              "revision": 2,
+              "locale": "en-US"
+            },
+            "fields": {
+              "title": "iPhone 11",
+              "description": "iPhone 11 ",
+              "file": {
+                "url": "//images.ctfassets.net/0ww4nq80qzhz/1XzeohM0obCjYt5g3DYtRY/35542f116700f10ab55c3eea06d214b8/61Y3GhJ3PRL.__AC_SX300_SY300_QL70_FMwebp_.webp",
+                "details": {
+                  "size": 5842,
+                  "image": {
+                    "width": 210,
+                    "height": 300
+                  }
+                },
+                "fileName": "61Y3GhJ3PRL.__AC_SX300_SY300_QL70_FMwebp_.webp",
+                "contentType": "image/webp"
+              }
+            }
+          },
+          "tags": [
+            {
+              "metadata": {
+                "tags": [],
+                "concepts": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "0ww4nq80qzhz"
+                  }
+                },
+                "id": "7yXTdi8qzdqVxplwLI7OzQ",
+                "type": "Entry",
+                "createdAt": "2024-12-26T13:35:02.764Z",
+                "updatedAt": "2024-12-26T13:35:02.764Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "publishedVersion": 2,
+                "revision": 1,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "tag"
+                  }
+                },
+                "locale": "en-US"
+              },
+              "fields": {
+                "name": "16MP"
+              }
+            },
+            {
+              "metadata": {
+                "tags": [],
+                "concepts": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "0ww4nq80qzhz"
+                  }
+                },
+                "id": "3E2jQzPCO1jSDIkttt15xI",
+                "type": "Entry",
+                "createdAt": "2024-12-26T13:33:15.810Z",
+                "updatedAt": "2024-12-26T13:33:36.592Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "publishedVersion": 4,
+                "revision": 2,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "tag"
+                  }
+                },
+                "locale": "en-US"
+              },
+              "fields": {
+                "name": "16GB"
+              }
+            },
+            {
+              "metadata": {
+                "tags": [],
+                "concepts": []
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "0ww4nq80qzhz"
+                  }
+                },
+                "id": "3RimaonDdPxHjRddWM7k1n",
+                "type": "Entry",
+                "createdAt": "2024-12-26T13:34:26.679Z",
+                "updatedAt": "2024-12-26T13:34:26.679Z",
+                "environment": {
+                  "sys": {
+                    "id": "master",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "publishedVersion": 2,
+                "revision": 1,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "tag"
+                  }
+                },
+                "locale": "en-US"
+              },
+              "fields": {
+                "name": "Black"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
